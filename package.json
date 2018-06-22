@@ -5,11 +5,16 @@
   "scripts": {
     "start": "http-server",
     "build": "browserify scripts/resume.js -o public/bundle.js",
-    "dev": "watchify scripts/resume.js -o public/bundle.js"
+    "dev": "watchify scripts/resume.js -o public/bundle.js",
+    "deploy": "git subtree push --prefix=public origin gh-pages",
+    "deploy2": "gh-pages -d public"
   },
   "license": "MIT",
   "dependencies": {
     "browserify": "^16.2.2",
     "watchify": "^3.11.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
   }
 }
