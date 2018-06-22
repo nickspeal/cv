@@ -1,5 +1,5 @@
 {
-  "warning": "This is the 30 second version. For more detail, please visit speal.ca/web-resume",
+  "warning": "This is the 30 second version. For more detail, please visit speal.ca/cv",
   "summary": "I'm a software engineer with a specialization in web development and a track record of success in robotics and team leadership. I'm committed to improving the access and quality of education for all children and excited to build tools that help teachers help students learn more effectively. I'm also a US Citizen.",
   "skills": [
     "Javascript, React, Redux, Sass, CSS Modules",
@@ -39,7 +39,7 @@
       "title": "3 Summer Internships, McGill University",
       "date": "2011-2013",
       "itemsDefault": [
-        "Software development in Python and MATLAB in support of a variety of research objectives"
+        "Full-time MATLAB and Python development to support graduate research"
       ]
     },
     {
