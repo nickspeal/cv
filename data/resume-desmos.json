@@ -27,8 +27,7 @@
       "dateAlt": "October 2016 through November 2017",
       "itemsDefault": [
         "Built a complex and evolving web application in ReactJS, enabling visualization & interaction with construction site topography collected by drone",
-        "Owned frontend development and maintenance together with 2-3 other engineers, occasionally picking up backend and drone software projects as needed.",
-        "Worked remotely, allowing uninterrupted time for intense focus, while communicating effectively online."
+        "Owned frontend development and maintenance together with 2-3 other engineers, occasionally picking up backend and drone software projects as needed."
       ],
       "itemsExpanded": [
         "Built a complex and evolving web application in ReactJS, enabling visualization & interaction with construction site topography collected by drone",
@@ -73,7 +72,7 @@
       ],
       "itemsExpanded": [
         "Led a team of 98 students to build robots for two international competitions",
-        "Built the control system for an autonomous underwater vehicle in c++",
+        "Built the control system for an autonomous underwater vehicle in c++ and ROS",
         "Planned yearly design cycles and owned systems integration",
         "International competition results: 1st in branding, 3rd in design & presentation, 10th overall out of 39 teams at RoboSub 2014. 12th out of 50 at NASA in 2013"
       ],
@@ -86,16 +85,16 @@
       "date": "2011-2013",
       "dateAlt": "May through August for three summers",
       "itemsDefault": [
-        "Software development in Python and MATLAB in support of a variety of research objectives"
+        "Full-time MATLAB and Python development to support graduate research"
       ],
       "itemsExpanded": [
-        "Software development in Python and MATLAB in support of a variety of research objectives",
+        "Full-time MATLAB and Python development to support graduate research",
         "2011: Developed a Graphical User Interface in Python for turbomachinery simulations",
         "2012: Developed a physics simulator in MATLAB to study granular dynamics",
         "2013: Designed and conducted experiments on a quadrotor aircraft and LiDAR to facilitate autonomous takeoff and landing; published results at ICUAS 2014"
       ],
       "itemsPrint": [
-        "Software development in Python and MATLAB in support of a variety of research objectives"
+        "Full-time MATLAB and Python development to support graduate research"
       ]
     },
     {
@@ -117,7 +116,7 @@
     }
   ],
   "coverletter": {
-    "date": "June 21, 2018",
+    "date": "June 22, 2018",
     "salutation": "To Mr. Berger and the Desmos engineering team,",
     "body": [
       "I'm a software engineer with a specialization in web development and a background in team leadership and robotics. I care deeply about writing software that distributes rather than concentrates opportunity and was thrilled to sense the same attitude when I met Cori and Denis at Jenny's Design Week talk last week. I'd love to join your team as a software engineer and help make sure that all students have access to the very best math education.",
