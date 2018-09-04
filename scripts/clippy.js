@@ -1,4 +1,4 @@
-const CLIPPY_DELAY = 15000;
+const CLIPPY_DELAY = 5000;
 
 function clippyLoadStart() {
   setTimeout(() => clippy.load('Clippy', clippyLoadComplete), CLIPPY_DELAY);

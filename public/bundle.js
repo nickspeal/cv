@@ -44,7 +44,7 @@ Success is defined as 'load' event fired (not 'error') AND status is 200
 */
 
 },{}],2:[function(require,module,exports){
-const CLIPPY_DELAY = 15000;
+const CLIPPY_DELAY = 5000;
 
 function clippyLoadStart() {
   setTimeout(() => clippy.load('Clippy', clippyLoadComplete), CLIPPY_DELAY);
