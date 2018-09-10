@@ -1,4 +1,7 @@
 {
+  "features": {
+    "clippy": 0
+  },
   "summary": "I'm a software engineer with a specialization in web development and a track record of success in robotics and team leadership. I'm committed to improving the access and quality of education for all children and excited to build tools that help teachers help students learn more effectively. I'm also a US Citizen.",
   "skills": [
     "Javascript, React, Redux, Sass, CSS Modules",
